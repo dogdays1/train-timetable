@@ -1,0 +1,33 @@
+
+
+.input {
+       width: 100%;
+}
+#trainTable {
+    margin-top: 20px;
+    height: 350px;
+    overflow-y: auto;
+    width: 100%;
+    display: block;
+}
+
+.card {
+    background: blue;
+    color: white;
+    padding: 0 5 5 5px;
+    text-align: center;
+    font-size: 30px;
+}
+.p1 {
+    font-size: 12px;
+    position: absolute;
+    bottom: 0%;
+    text-align: auto;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+.sticky-top {
+position: sticky;
+}
+/* sticky table top not working? */
